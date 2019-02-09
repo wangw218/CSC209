@@ -1,0 +1,4 @@
+simpletest/d1/f3
+simpletest/d1/f1
+simpletest/d1/f2
+simpletest/d1/index
